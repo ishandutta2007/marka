@@ -21,3 +21,10 @@ Marka's master branch only contains v0.3.*. For the next version of Marka (v0.4.
 ## License
 
 Marka is released under the [MIT license](https://github.com/fians/marka/blob/master/LICENSE). 2014 (c) Alfiana Sibuea. All right reserved.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
